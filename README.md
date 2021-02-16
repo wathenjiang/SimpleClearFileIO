@@ -11,7 +11,7 @@
 内容包括：
 
 - [1.page cache](1. page cache.html)
-- [2.DMA 与零拷贝技术](2. DMA 技术与零拷贝技术.html)
+- [2.DMA 与零拷贝技术](2. DMA 与零拷贝技术.html)
 - [3.mmap](3. mmap.html)
 - [4.文件分区](4. 文件分区.html)
 - [5.Java ByteBuffer与 Channel](5. Java ByteBuffer与 Channel.html)
