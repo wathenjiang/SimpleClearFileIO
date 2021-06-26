@@ -29,9 +29,12 @@
 个人博客地址：[https://spongecaptain.cool](https://spongecaptain.cool/)。
 
 本书受到 [文件 IO 操作的一些最佳实践](https://www.cnkirito.moe/file-io-best-practise/) 一文启发，很感谢阿里巴巴中间件团队的徐靖峰，其所写文章带来的启发意义非凡。
+<<<<<<< HEAD
 
 推荐阅读：
 
 1. [On Disk IO, Part 1: Flavors of IO](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017)
 2. [On Disk IO, Part 2: More Flavours of IO](https://medium.com/databasss/on-disk-io-part-2-more-flavours-of-io-c945db3edb13?)
 3. [Read, write & space amplification - pick 2](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-pick-2_23.html)
+=======
+>>>>>>> 41717838d3a2355504c814f4bcec65ef86211a9a
